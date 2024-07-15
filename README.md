@@ -19,4 +19,4 @@
 
 
 #### Experience the Visualization from here :
-https://namannr9.github.io/Sorting-Algorithm-Visualizer/
+https://bimal-861.github.io/SortByReact/
