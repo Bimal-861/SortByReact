@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SortByReact/static/css/main.1138dfe6.chunk.css",
+    "main.js": "/SortByReact/static/js/main.7b37904f.chunk.js",
+    "main.js.map": "/SortByReact/static/js/main.7b37904f.chunk.js.map",
+    "runtime-main.js": "/SortByReact/static/js/runtime-main.d3f6a18f.js",
+    "runtime-main.js.map": "/SortByReact/static/js/runtime-main.d3f6a18f.js.map",
+    "static/css/2.4e15b5ff.chunk.css": "/SortByReact/static/css/2.4e15b5ff.chunk.css",
+    "static/js/2.161d19a4.chunk.js": "/SortByReact/static/js/2.161d19a4.chunk.js",
+    "static/js/2.161d19a4.chunk.js.map": "/SortByReact/static/js/2.161d19a4.chunk.js.map",
+    "index.html": "/SortByReact/index.html",
+    "precache-manifest.2fda6d92c690d214c501909ae2e07e97.js": "/SortByReact/precache-manifest.2fda6d92c690d214c501909ae2e07e97.js",
+    "service-worker.js": "/SortByReact/service-worker.js",
+    "static/css/2.4e15b5ff.chunk.css.map": "/SortByReact/static/css/2.4e15b5ff.chunk.css.map",
+    "static/css/main.1138dfe6.chunk.css.map": "/SortByReact/static/css/main.1138dfe6.chunk.css.map",
+    "static/js/2.161d19a4.chunk.js.LICENSE.txt": "/SortByReact/static/js/2.161d19a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f6a18f.js",
+    "static/css/2.4e15b5ff.chunk.css",
+    "static/js/2.161d19a4.chunk.js",
+    "static/css/main.1138dfe6.chunk.css",
+    "static/js/main.7b37904f.chunk.js"
+  ]
+}
